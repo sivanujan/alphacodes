@@ -1,0 +1,26 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" rx="12" fill="#0B1B2B" />
+  
+  <!-- Swatches and Tokens -->
+  <rect x="40" y="35" width="65" height="65" rx="10" fill="#12A9EC" />
+  <text x="72" y="115" fill="#FFFFFF" font-family="monospace" font-size="9" text-anchor="middle">#12A9EC</text>
+
+  <rect x="125" y="35" width="65" height="65" rx="10" fill="#2563EB" />
+  <text x="157" y="115" fill="#FFFFFF" font-family="monospace" font-size="9" text-anchor="middle">#2563EB</text>
+
+  <rect x="210" y="35" width="65" height="65" rx="10" fill="#0B1B2B" stroke="#FFFFFF" stroke-opacity="0.3" />
+  <text x="242" y="115" fill="#FFFFFF" font-family="monospace" font-size="9" text-anchor="middle">#0B1B2B</text>
+
+  <rect x="295" y="35" width="65" height="65" rx="10" fill="#38BDF8" />
+  <text x="327" y="115" fill="#FFFFFF" font-family="monospace" font-size="9" text-anchor="middle">#38BDF8</text>
+
+  <!-- Typography Token Display -->
+  <rect x="40" y="135" width="320" height="90" rx="8" fill="#11253E" />
+  <text x="55" y="165" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="800">Plus Jakarta Sans</text>
+  <text x="55" y="190" fill="#12A9EC" font-family="sans-serif" font-size="12" font-weight="600" letter-spacing="2">LARGE BOLD HEADLINES · SPACED-CAPITAL LABELS</text>
+  <text x="55" y="210" fill="#94A3B8" font-family="sans-serif" font-size="10">House style typography specifications</text>
+
+  <!-- Placeholder Badge -->
+  <rect x="24" y="250" width="352" height="26" rx="6" fill="#07121D" stroke="#12A9EC" stroke-opacity="0.3" />
+  <text x="200" y="267" fill="#12A9EC" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">PLACEHOLDER // REPLACE WITH REAL OFFICE PHOTO</text>
+</svg>

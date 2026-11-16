@@ -1,0 +1,30 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" rx="12" fill="#0C1D2E" />
+  
+  <!-- Central Cluster -->
+  <circle cx="200" cy="120" r="38" fill="#11273F" stroke="#12A9EC" stroke-width="2" />
+  <circle cx="200" cy="120" r="14" fill="#12A9EC" />
+  <text x="200" y="145" fill="#FFFFFF" font-family="monospace" font-size="9" text-anchor="middle">GATEWAY</text>
+
+  <circle cx="90" cy="80" r="28" fill="#0B1B2B" stroke="#2563EB" stroke-width="1.5" />
+  <text x="90" y="83" fill="#38BDF8" font-family="monospace" font-size="8" text-anchor="middle">API</text>
+
+  <circle cx="310" cy="80" r="28" fill="#0B1B2B" stroke="#2563EB" stroke-width="1.5" />
+  <text x="310" y="83" fill="#38BDF8" font-family="monospace" font-size="8" text-anchor="middle">CACHE</text>
+
+  <circle cx="120" cy="190" r="28" fill="#0B1B2B" stroke="#12A9EC" stroke-width="1.5" />
+  <text x="120" y="193" fill="#12A9EC" font-family="monospace" font-size="8" text-anchor="middle">AUTH</text>
+
+  <circle cx="280" cy="190" r="28" fill="#0B1B2B" stroke="#10B981" stroke-width="1.5" />
+  <text x="280" y="193" fill="#10B981" font-family="monospace" font-size="8" text-anchor="middle">SQL_DB</text>
+
+  <!-- Connectors -->
+  <line x1="115" y1="92" x2="168" y2="108" stroke="#12A9EC" stroke-width="1.5" stroke-dasharray="3 3" />
+  <line x1="285" y1="92" x2="232" y2="108" stroke="#12A9EC" stroke-width="1.5" stroke-dasharray="3 3" />
+  <line x1="140" y1="172" x2="175" y2="145" stroke="#2563EB" stroke-width="1.5" />
+  <line x1="260" y1="172" x2="225" y2="145" stroke="#10B981" stroke-width="1.5" />
+
+  <!-- Placeholder Badge -->
+  <rect x="24" y="250" width="352" height="26" rx="6" fill="#07121D" stroke="#2563EB" stroke-opacity="0.3" />
+  <text x="200" y="267" fill="#38BDF8" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">PLACEHOLDER // REPLACE WITH REAL OFFICE PHOTO</text>
+</svg>

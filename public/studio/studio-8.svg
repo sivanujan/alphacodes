@@ -1,0 +1,23 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" rx="12" fill="#0E2135" />
+  
+  <!-- Global Map Link Schematic -->
+  <circle cx="100" cy="110" r="30" fill="#11273F" stroke="#12A9EC" stroke-width="2" />
+  <circle cx="100" cy="110" r="8" fill="#12A9EC" />
+  <text x="100" y="155" fill="#FFFFFF" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">UNITED KINGDOM</text>
+  <text x="100" y="170" fill="#94A3B8" font-family="sans-serif" font-size="9" text-anchor="middle">THAAYAKAM LTD</text>
+
+  <circle cx="300" cy="110" r="30" fill="#11273F" stroke="#2563EB" stroke-width="2" />
+  <circle cx="300" cy="110" r="8" fill="#2563EB" />
+  <text x="300" y="155" fill="#FFFFFF" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">SRI LANKA</text>
+  <text x="300" y="170" fill="#94A3B8" font-family="sans-serif" font-size="9" text-anchor="middle">AlphaCodes Studio</text>
+
+  <!-- High-speed link arc -->
+  <path d="M130 110C170 70 230 70 270 110" stroke="#12A9EC" stroke-width="2.5" stroke-dasharray="4 4" fill="none" />
+  <circle cx="200" cy="85" r="4" fill="#FFFFFF" />
+  <text x="200" y="65" fill="#38BDF8" font-family="monospace" font-size="9" text-anchor="middle">PRODUCTION SCALE</text>
+
+  <!-- Placeholder Badge -->
+  <rect x="24" y="250" width="352" height="26" rx="6" fill="#0B1B2B" stroke="#12A9EC" stroke-opacity="0.3" />
+  <text x="200" y="267" fill="#12A9EC" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">PLACEHOLDER // REPLACE WITH REAL TEAM PHOTO</text>
+</svg>

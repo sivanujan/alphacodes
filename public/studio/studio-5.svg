@@ -1,0 +1,22 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" rx="12" fill="#0B1B2B" />
+  
+  <!-- Dual Mobile Testing Frames -->
+  <rect x="75" y="30" width="105" height="195" rx="16" fill="#11253E" stroke="#12A9EC" stroke-width="2" />
+  <rect x="105" y="38" width="45" height="7" rx="3.5" fill="#0B1B2B" />
+  <rect x="85" y="55" width="85" height="35" rx="6" fill="#12A9EC" />
+  <rect x="85" y="100" width="85" height="25" rx="4" fill="#0B1B2B" />
+  <rect x="85" y="135" width="85" height="25" rx="4" fill="#0B1B2B" />
+  <rect x="85" y="170" width="85" height="35" rx="6" fill="#2563EB" />
+
+  <rect x="220" y="30" width="105" height="195" rx="16" fill="#11253E" stroke="#2563EB" stroke-width="2" />
+  <rect x="250" y="38" width="45" height="7" rx="3.5" fill="#0B1B2B" />
+  <rect x="230" y="55" width="85" height="35" rx="6" fill="#2563EB" />
+  <rect x="230" y="100" width="85" height="60" rx="6" fill="#0B1B2B" />
+  <circle cx="272" cy="130" r="14" fill="#12A9EC" />
+  <rect x="230" y="170" width="85" height="35" rx="6" fill="#12A9EC" />
+
+  <!-- Placeholder Badge -->
+  <rect x="24" y="250" width="352" height="26" rx="6" fill="#07121D" stroke="#12A9EC" stroke-opacity="0.3" />
+  <text x="200" y="267" fill="#12A9EC" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">PLACEHOLDER // REPLACE WITH REAL TEAM PHOTO</text>
+</svg>
